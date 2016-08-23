@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: c5f984659263237429cbd4ddca9ff593
+timeCreated: 1471940949
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Cube
+    100006: FirstLeg_L_001
+    100008: FirstLeg_L_002
+    100010: FirstLeg_L_003
+    100012: FirstLeg_R_001
+    100014: FirstLeg_R_002
+    100016: FirstLeg_R_003
+    100018: FourthLeg_L_001
+    100020: FourthLeg_L_002
+    100022: FourthLeg_L_003
+    100024: FourthLeg_L_004
+    100026: FourthLeg_L_005
+    100028: FourthLeg_R_001
+    100030: FourthLeg_R_002
+    100032: FourthLeg_R_003
+    100034: FourthLeg_R_004
+    100036: FourthLeg_R_005
+    100038: HeadTrack
+    100040: Root
+    100042: SecondLeg_L_001
+    100044: SecondLeg_L_002
+    100046: SecondLeg_L_003
+    100048: SecondLeg_L_004
+    100050: SecondLeg_L_006
+    100052: SecondLeg_R_001
+    100054: SecondLeg_R_002
+    100056: SecondLeg_R_003
+    100058: SecondLeg_R_004
+    100060: SecondLeg_R_006
+    100062: Spine_001
+    100064: Spine_002
+    100066: Spine_003
+    100068: Tail
+    100070: ThirdLeg_L_001
+    100072: ThirdLeg_L_002
+    100074: ThirdLeg_L_003
+    100076: ThirdLeg_L_004
+    100078: ThirdLeg_L_005
+    100080: ThirdLeg_R_001
+    100082: ThirdLeg_R_002
+    100084: ThirdLeg_R_003
+    100086: ThirdLeg_R_004
+    100088: ThirdLeg_R_005
+    100090: UltraRoot
+    100092: FirstLeg_L_004
+    100094: FirstLeg_R_004
+    400000: Armature
+    400002: //RootNode
+    400004: Cube
+    400006: FirstLeg_L_001
+    400008: FirstLeg_L_002
+    400010: FirstLeg_L_003
+    400012: FirstLeg_R_001
+    400014: FirstLeg_R_002
+    400016: FirstLeg_R_003
+    400018: FourthLeg_L_001
+    400020: FourthLeg_L_002
+    400022: FourthLeg_L_003
+    400024: FourthLeg_L_004
+    400026: FourthLeg_L_005
+    400028: FourthLeg_R_001
+    400030: FourthLeg_R_002
+    400032: FourthLeg_R_003
+    400034: FourthLeg_R_004
+    400036: FourthLeg_R_005
+    400038: HeadTrack
+    400040: Root
+    400042: SecondLeg_L_001
+    400044: SecondLeg_L_002
+    400046: SecondLeg_L_003
+    400048: SecondLeg_L_004
+    400050: SecondLeg_L_006
+    400052: SecondLeg_R_001
+    400054: SecondLeg_R_002
+    400056: SecondLeg_R_003
+    400058: SecondLeg_R_004
+    400060: SecondLeg_R_006
+    400062: Spine_001
+    400064: Spine_002
+    400066: Spine_003
+    400068: Tail
+    400070: ThirdLeg_L_001
+    400072: ThirdLeg_L_002
+    400074: ThirdLeg_L_003
+    400076: ThirdLeg_L_004
+    400078: ThirdLeg_L_005
+    400080: ThirdLeg_R_001
+    400082: ThirdLeg_R_002
+    400084: ThirdLeg_R_003
+    400086: ThirdLeg_R_004
+    400088: ThirdLeg_R_005
+    400090: UltraRoot
+    400092: FirstLeg_L_004
+    400094: FirstLeg_R_004
+    4300000: Cube
+    7400000: Default Take
+    7400002: ArmatureAction_001
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 199
+      lastFrame: 259
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FourthLeg_L_005
+        weight: 1
+      - path: Armature/FourthLeg_R_005
+        weight: 1
+      - path: Armature/SecondLeg_L_006
+        weight: 1
+      - path: Armature/SecondLeg_R_006
+        weight: 1
+      - path: Armature/ThirdLeg_L_005
+        weight: 1
+      - path: Armature/ThirdLeg_R_005
+        weight: 1
+      - path: Armature/UltraRoot
+        weight: 1
+      - path: Armature/UltraRoot/HeadTrack
+        weight: 1
+      - path: Armature/UltraRoot/Root
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_L_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_L_001/FourthLeg_L_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_L_001/FourthLeg_L_002/FourthLeg_L_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_L_001/FourthLeg_L_002/FourthLeg_L_003/FourthLeg_L_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_R_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_R_001/FourthLeg_R_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_R_001/FourthLeg_R_002/FourthLeg_R_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_R_001/FourthLeg_R_002/FourthLeg_R_003/FourthLeg_R_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_L_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_L_001/FirstLeg_L_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_L_001/FirstLeg_L_002/FirstLeg_L_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_R_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_R_001/FirstLeg_R_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_R_001/FirstLeg_R_002/FirstLeg_R_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_L_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_L_001/SecondLeg_L_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_L_001/SecondLeg_L_002/SecondLeg_L_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_L_001/SecondLeg_L_002/SecondLeg_L_003/SecondLeg_L_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_R_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_R_001/SecondLeg_R_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_R_001/SecondLeg_R_002/SecondLeg_R_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_R_001/SecondLeg_R_002/SecondLeg_R_003/SecondLeg_R_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/Spine_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_L_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_L_001/ThirdLeg_L_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_L_001/ThirdLeg_L_002/ThirdLeg_L_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_L_001/ThirdLeg_L_002/ThirdLeg_L_003/ThirdLeg_L_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_R_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_R_001/ThirdLeg_R_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_R_001/ThirdLeg_R_002/ThirdLeg_R_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_R_001/ThirdLeg_R_002/ThirdLeg_R_003/ThirdLeg_R_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Tail
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 199
+    - serializedVersion: 16
+      name: ArmatureAction_001
+      takeName: ArmatureAction_001
+      firstFrame: -1
+      lastFrame: 399
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FourthLeg_L_005
+        weight: 1
+      - path: Armature/FourthLeg_R_005
+        weight: 1
+      - path: Armature/SecondLeg_L_006
+        weight: 1
+      - path: Armature/SecondLeg_R_006
+        weight: 1
+      - path: Armature/ThirdLeg_L_005
+        weight: 1
+      - path: Armature/ThirdLeg_R_005
+        weight: 1
+      - path: Armature/UltraRoot
+        weight: 1
+      - path: Armature/UltraRoot/HeadTrack
+        weight: 1
+      - path: Armature/UltraRoot/Root
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_L_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_L_001/FourthLeg_L_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_L_001/FourthLeg_L_002/FourthLeg_L_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_L_001/FourthLeg_L_002/FourthLeg_L_003/FourthLeg_L_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_R_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_R_001/FourthLeg_R_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_R_001/FourthLeg_R_002/FourthLeg_R_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/FourthLeg_R_001/FourthLeg_R_002/FourthLeg_R_003/FourthLeg_R_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_L_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_L_001/FirstLeg_L_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_L_001/FirstLeg_L_002/FirstLeg_L_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_R_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_R_001/FirstLeg_R_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/FirstLeg_R_001/FirstLeg_R_002/FirstLeg_R_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_L_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_L_001/SecondLeg_L_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_L_001/SecondLeg_L_002/SecondLeg_L_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_L_001/SecondLeg_L_002/SecondLeg_L_003/SecondLeg_L_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_R_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_R_001/SecondLeg_R_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_R_001/SecondLeg_R_002/SecondLeg_R_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/SecondLeg_R_001/SecondLeg_R_002/SecondLeg_R_003/SecondLeg_R_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/Spine_002/Spine_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_L_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_L_001/ThirdLeg_L_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_L_001/ThirdLeg_L_002/ThirdLeg_L_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_L_001/ThirdLeg_L_002/ThirdLeg_L_003/ThirdLeg_L_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_R_001
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_R_001/ThirdLeg_R_002
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_R_001/ThirdLeg_R_002/ThirdLeg_R_003
+        weight: 1
+      - path: Armature/UltraRoot/Root/Spine_001/ThirdLeg_R_001/ThirdLeg_R_002/ThirdLeg_R_003/ThirdLeg_R_004
+        weight: 1
+      - path: Armature/UltraRoot/Root/Tail
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
